@@ -7,8 +7,13 @@ About me:
  & Currently Pursuing 📙 Master's of Computer Application at CVM University In Istar College.
  
  My Skils:
- 
+ ---------
  1. AI / ML.
  2. Python Programming || Library: Pandas / Streamlit / Numpy / PyMsql.
  3. Graphics Designing.
  4. AI Prompting.
+
+Contact :
+---------
+Linkedin: www.linkedin.com/in/prit-shah-573b75395   
+Github: https://github.com/PritShah220
