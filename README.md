@@ -1,6 +1,6 @@
 My Profile 
 ----------
-About me.:
+About me:
 
 🖐Hello there My Name Is Prit Pankajkumar Shah I am 21 years Old.
  🎓I Recently Completed My Bachelor's Degree at S.P. University & I Completed 21 Days Internship In Ai / Python Development in Prelytics Technologies. 
