@@ -10,8 +10,9 @@ About me:
  ---------
  1. AI / ML.
  2. Python Programming || Library: Pandas / Streamlit / Numpy / PyMsql.
- 3. Graphics Designing.
- 4. AI Prompting.
+ 3. Web Developer : Expert: HTML , Css , JavaScript
+ 4. Graphics Designing.
+ 5. AI Prompting.
 
 Contact Me:
 ---------
