@@ -9,7 +9,7 @@
  ⚙ MY SKILLS
  --------- 
  1. AI / ML.
- 2. Python Programming || Library : Pandas / Streamlit / Numpy / PyMsql.
+ 2. Python Programming || Library : Pandas / Streamlit / Numpy / PyMysql.
  3. Web Developer  : Expert : HTML , Css , JavaScript
  4. Graphics Designing.
  5. AI Prompting.
